@@ -1,2 +1,2 @@
-# neural-networks-prac
+# neural-networks-ex
 Assorted personal neural network programs
